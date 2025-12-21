@@ -17,9 +17,9 @@ A simple Python application that shows the current weather and air quality index
 Follow these steps to get the project up and running on your local machine:
 
 - Clone the repository:
-```
+```bash
     git clone https://github.com/your-username/my-python-tkinter-weather-app.git
-```
+
 
 - Navigate to the project folder:
 ```
