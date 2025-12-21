@@ -12,3 +12,25 @@ A simple Python application that shows the current weather and air quality index
 - Install dependencies from `requirements.txt`:
   ```bash
   pip install -r requirements.txt
+
+## Installation
+Follow these steps to get the project up and running on your local machine:
+
+Clone the repository:
+```
+    git clone https://github.com/your-username/my-python-tkinter-weather-app.git
+
+
+Navigate to the project folder:
+```
+    cd my-python-tkinter-weather-app
+
+
+Install the required dependencies:
+```
+    pip install -r requirements.txt
+
+
+Alternatively, if you don't have a requirements.txt file, you can install each dependency manually:
+```
+    pip install requests pyttsx3
