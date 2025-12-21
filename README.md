@@ -1,1 +1,0 @@
-# my-python-tkinter-weather-app-

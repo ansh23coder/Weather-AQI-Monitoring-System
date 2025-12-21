@@ -1,0 +1,3 @@
+requests
+pyttsx3
+tkinter  # This is included in Python standard library, but it's good to mention for completeness
